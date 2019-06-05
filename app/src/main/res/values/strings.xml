@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">TPDM_U5_Practica1_BarajasLopez</string>
+    <string-array name="marcas">
+        <item>ANASTASIA</item>
+        <item>AZTEC</item>
+        <item>BADHABIT </item>
+        <item>BENEFIT</item>
+        <item>BHCOSMETICS</item>
+        <item>COLOURPOP</item>
+        <item>CLINIQUE</item>
+        <item>DOSE</item>
+        <item>ECOTOOLS</item>
+        <item>FARSALI</item>
+        <item>GLOSSIER</item>
+        <item>HUDA</item>
+        <item>INGLOT</item>
+        <item>ITCOSMETICS</item>
+        <item>JUVIAS</item>
+        <item>JEFFRE</item>
+        <item>LIMECRIME</item>
+        <item>MAC</item>
+        <item>MORPHE</item>
+        <item>NARS</item>
+        <item>PIXI</item>
+        <item>RCMA</item>
+        <item>STILA</item>
+        <item>WETNWILD</item>
+    </string-array>
+</resources>
